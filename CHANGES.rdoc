@@ -6,6 +6,19 @@ _rbovirt_ project.
 Note that this list of changes was added with the 0.0.30 release,
 previous releases aren't described here.
 
+== 0.1.7
+
+New features:
+
+* Fix sockets when template is selected
+
+== 0.1.6
+
+New features:
+
+* Add socket to VM
+* Replace unknown constant with boolean
+
 == 0.1.5
 
 New features:
